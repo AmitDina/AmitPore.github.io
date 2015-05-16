@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ed7aaa36-605e-48c8-8cb3-516e3a6bb357" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/freelancer.css" afterPath="$PROJECT_DIR$/css/freelancer.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="AmitPore.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,10 +38,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.743083" vertical-offset="2481" max-vertical-offset="8640">
+            <state vertical-scroll-proportion="-23.5" vertical-offset="2481" max-vertical-offset="8640">
               <caret line="203" column="136" selection-start-line="203" selection-start-column="136" selection-end-line="203" selection-end-column="136" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -72,11 +70,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="freelancer.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="freelancer.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/freelancer.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="6417" max-vertical-offset="7200">
-              <caret line="474" column="1" selection-start-line="474" selection-start-column="1" selection-end-line="474" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.40229884" vertical-offset="0" max-vertical-offset="7230">
+              <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -119,8 +117,8 @@
         <option value="$PROJECT_DIR$/font-awesome/css/font-awesome.css" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$USER_HOME$/Downloads/startbootstrap-freelancer-1.0.3/font-awesome/css/font-awesome.css" />
-        <option value="$PROJECT_DIR$/css/freelancer.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/freelancer.css" />
       </list>
     </option>
   </component>
@@ -452,14 +450,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/freelancer.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="6417" max-vertical-offset="7200">
-          <caret line="474" column="1" selection-start-line="474" selection-start-column="1" selection-end-line="474" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Downloads/startbootstrap-freelancer-1.0.3/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-28.833334" vertical-offset="2038" max-vertical-offset="8205">
@@ -470,11 +460,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.743083" vertical-offset="2481" max-vertical-offset="8640">
+        <state vertical-scroll-proportion="-23.5" vertical-offset="2481" max-vertical-offset="8640">
           <caret line="203" column="136" selection-start-line="203" selection-start-column="136" selection-end-line="203" selection-end-column="136" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/freelancer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.40229884" vertical-offset="0" max-vertical-offset="7230">
+          <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+          <folding />
         </state>
       </provider>
     </entry>
