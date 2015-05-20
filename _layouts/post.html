@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-8 col-lg-offset-2">
+            <h2>{{post.title}}</h2>
+            <img src="{{post.image}}" class="img-responsive img-centered" alt="">
+            <ul class="list-inline item-details">
+                <li>
+                    <p>{{content}}</p>
+                </li>
+                <li>Date:
+                    <strong><a>Published on {{post.date | date: "%-d %B %Y"}}</a>
+                    </strong>
+                </li>
+            </ul>
+            <button type="button" href="/" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close
+            </button>
+
+        </div>
+    </div>
+</div>
+
+
+
