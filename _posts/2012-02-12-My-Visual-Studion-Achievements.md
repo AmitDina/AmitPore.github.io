@@ -9,5 +9,4 @@ published: true
 url : /
 ---
 
-<p>
 ![VS 2012](/assets/img/portfolio/VSA.png)

@@ -5,7 +5,7 @@ layout: default
 <div class="container">
     <div class="row">
         <div class="col-lg-8 col-lg-offset-2">
-            <h2>{{post.title}}</h2>
+            <h3>{{post.title}}</h3>
             <img src="{{post.image}}" class="img-responsive img-centered" alt="">
             <ul class="list-inline item-details">
                 <li>
@@ -16,8 +16,12 @@ layout: default
                     </strong>
                 </li>
             </ul>
-            <button type="button" href="/" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close
-            </button>
+
+            <div class="col-lg-8 col-lg-offset-2 text-center">
+                <a href="/" class="btn btn-lg btn-default">
+                    <i class="fa fa-backward"></i> Back
+                </a>
+            </div>
 
         </div>
     </div>
