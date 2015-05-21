@@ -9,9 +9,9 @@ published: true
 ---
 
 
-<p class="type--big">As a robotics enthusiastic, I was very keen to attend the Active Robotic Retreat heal in the University of Bath Campus, that too in the same hall 8W 2.11 where my M.Sc. lectures used to be.  It was great to be in the same place after a year.</p>
+<p class="type--big">As a robotics enthusiastic, I was very keen to attend the Active Robotic Retreat held in the University of Bath Campus, that too in the same hall 8W 2.11 where my M.Sc. lectures used to be.  It was great to be in the same place after a year.</p>
 
-The 2 day retreat was basically a class held my Parallax (link here) to let people know basic of Robots. They provided with BASIC Stamp 2 microcontroller board and [Boe-Bot and Shield-Bot Refresher Pack]( https://www.parallax.com/product/572-28132) required to start with.
+The 2 day retreat was basically a class held my Parallax  to let people know basic of Robots. They provided with BASIC Stamp 2 microcontroller board and [Boe-Bot and Shield-Bot Refresher Pack]( https://www.parallax.com/product/572-28132) required to start with.
 
 First day was introducing the PBasic language and learning circuits. I wrote some simple programs in PBASIC using simple editor provided.  Building circuits was fairly easy using pictures and schematics.
 ![Kit](/assets/img/blog-img/ROBO-FUN-IMG1.jpg)
