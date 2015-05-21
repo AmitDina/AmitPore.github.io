@@ -17,7 +17,7 @@ The 2 day retreat was basically a class held my Parallax (link here) to let peop
 
 Next step involved to actually loading the program on to the board and it does cool stuffs.</p>
 
-<p class="type--big">Second day was pretty cool to build a Boe BOT using the [Boe BOT kit](https://www.parallax.com/product/28132) The fun started then when I had to use sensors to control the Bots navigation . At the end of the day, there was little competition where all of us where to try our robots, we had a Robot Race and Robot fight.  </p>
+<p class="type--big">Second day was pretty cool to build a Boe BOT using the  [Boe-Bot kit]( https://www.parallax.com/product/28132)  , The fun started then when I had to use sensors to control the Bots navigation . At the end of the day, there was little competition where all of us where to try our robots, we had a Robot Race and Robot fight.  </p>
 
 <p class="type--big">Even though it was a very basic introductory class, it was much more for Robot new bees. People who don’t know where to Start with and find arduino like boards complicated then this is fun to learn. And they teach programming and building circuits to kids or any robotic fanatic.
 
