@@ -30,7 +30,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #2C3E50;
+    color: #18bc9c;
 }
 
 h1,
@@ -70,7 +70,7 @@ hr.star-light {
 
 hr.star-light:after {
     color: #fff;
-    background-color: #2C3E50;
+    background-color: #18bc9c;
 }
 
 hr.star-primary {
@@ -89,7 +89,7 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background: #2C3E50;
+    background: #18bc9c;
 }
 
 header .container {
@@ -189,7 +189,7 @@ section h2 {
 
 section.success {
     color: #fff;
-    background: #2C3E50;
+    background: #18bc9c;
 }
 
 section.success a,
@@ -217,10 +217,9 @@ section.success a.active {
 }
 
 #portfolio .portfolio-item .portfolio-link {
-    display: block;
+    display: inline-block;
     position: relative;
-    margin: 0 auto;
-    max-width: 400px;
+    max-width: 100px;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption {
@@ -282,7 +281,7 @@ section.success a.active {
 .btn-outline:active,
 .btn-outline.active {
     border: solid 2px #fff;
-    color: #2C3E50;
+    color: #18bc9c;
     background: #fff;
 }
 
@@ -335,7 +334,7 @@ section.success a.active {
 }
 
 .floating-label-form-group-with-focus label {
-    color: #2C3E50;
+    color: #18bc9c;
 }
 
 form .row:first-child .floating-label-form-group {
