@@ -26,21 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="default.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="default.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/default.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="2.083855" vertical-offset="210" max-vertical-offset="4740">
+            <state vertical-scroll-proportion="-69.375" vertical-offset="210" max-vertical-offset="4740">
               <caret line="125" column="94" selection-start-line="125" selection-start-column="94" selection-end-line="125" selection-end-column="94" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="freelancer.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="freelancer.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/freelancer.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7275">
-              <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+            <state vertical-scroll-proportion="0.33249685" vertical-offset="4790" max-vertical-offset="7275">
+              <caret line="337" column="18" selection-start-line="337" selection-start-column="18" selection-end-line="337" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -167,8 +167,8 @@
         <option value="$PROJECT_DIR$/_posts/2014-09-20-Camel-Ride-In-Tunisia.md" />
         <option value="$PROJECT_DIR$/_posts/2011-06-21-ROBO-FUN-Active-Robot-Retreat.md" />
         <option value="$PROJECT_DIR$/_posts/2015-06-12-Reading-Brief-History.md" />
-        <option value="$PROJECT_DIR$/assets/css/freelancer.css" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
+        <option value="$PROJECT_DIR$/assets/css/freelancer.css" />
       </list>
     </option>
   </component>
@@ -939,18 +939,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/freelancer.css">
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7275">
-          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        <state vertical-scroll-proportion="-69.375" vertical-offset="210" max-vertical-offset="4740">
+          <caret line="125" column="94" selection-start-line="125" selection-start-column="94" selection-end-line="125" selection-end-column="94" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+    <entry file="file://$PROJECT_DIR$/assets/css/freelancer.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.083855" vertical-offset="210" max-vertical-offset="4740">
-          <caret line="125" column="94" selection-start-line="125" selection-start-column="94" selection-end-line="125" selection-end-column="94" />
+        <state vertical-scroll-proportion="0.33249685" vertical-offset="4790" max-vertical-offset="7275">
+          <caret line="337" column="18" selection-start-line="337" selection-start-column="18" selection-end-line="337" selection-end-column="18" />
           <folding />
         </state>
       </provider>
