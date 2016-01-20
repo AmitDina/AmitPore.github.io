@@ -104,7 +104,7 @@ header img {
 
 header .intro-text .name {
     display: block;
-    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Whiteboard', fantasy;
     font-size: 2em;
     font-weight: 700;
 }
@@ -112,7 +112,7 @@ header .intro-text .name {
 header .intro-text .skills {
     font-size: 1.25em;
     font-weight: 300;
-    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Whiteboard', fantasy;
 }
 
 @media(min-width:768px) {
@@ -128,7 +128,6 @@ header .intro-text .skills {
 
     header .intro-text .skills {
         font-size: 2.75em;
-        font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     }
 }
 
@@ -276,7 +275,6 @@ section.success a.active {
     color: #fff;
     background: 0 0;
     transition: all .3s ease-in-out;
-    font-family: 'Swanky and Moo Moo', cursive;
 }
 
 .btn-outline:hover,
@@ -307,7 +305,6 @@ section.success a.active {
     background: 0 0;
     box-shadow: none!important;
     resize: none;
-    font-family: 'Swanky and Moo Moo', cursive;
 }
 
 .floating-label-form-group label {
