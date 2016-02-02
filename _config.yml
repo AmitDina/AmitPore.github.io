@@ -1,0 +1,79 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://www.amitpore.com
+title: Amit Pore's home page and Blog
+subtitle: Senior .Net Developer
+author: Amit Pore
+simple_search: http://google.com/search
+description: ##Languages C#.Net , VB.Net <br />
+                ##Database MSSQL Server 2012,MYSQL , mongo DB , Amazon Dynamo DB <br/>
+                ##Tools VS 2012-13 ,VS Code, SQL Server Managment Studio,Robomongo,SVN,smartSVN,GIT,GitHub,Mono,Xamarin,WebStrom <br/> 
+                ##Technology .NET 2.0- 3.5 -4.5,ASP.NET,ADO.NET,LINQ,ENTITY Framework,MVC 3.0,WCF,TDD,TeamCity,Octopus deploy,NuGet,SignalR,Design Patterns,Amazon Web Services(S3,NOSQL)<br/>
+                ##Web Tier PHP , ASP ,JavaScript,HTML 5,CSS3,LESS,BootStrap,jQuery,Angular,Node.js,Express,Jade,Handlerbars.js,lodash.js,underscore.js,Bower,Grunt  
+          
+# Default date format is "ordinal" (resulting in "July 22nd 2007")
+# You can customize the format as defined in
+# http://www.ruby-doc.org/core-1.9.2/Time.html#method-i-strftime
+# Additionally, %o will give you the ordinal representation of the day
+date_format: "ordinal"
+email: mailing@amitpore.com
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# If publishing to a subdirectory as in http://site.com/project set 'root: /project'
+root: /project
+permalink: /blog/:year/:month/:day/:title/
+plugins_dir: /project/plugins
+category_dir: /blog/categories
+paginate: 5          # Posts per page on the blog index
+pagination_dir: blog  # Directory base for pagination URLs eg. /blog/page/2/
+recent_posts: 5       # Posts in the sidebar Recent Posts section
+excerpt_link: "Read on &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
+
+titlecase: true       # Converts page and post titles to titlecase
+
+# list each of the sidebar modules you want to include, in the order you want them to appear.
+# To add custom asides, create files in /source/_includes/custom/asides/ and add them to the list like 'custom/asides/custom_aside_name.html'
+default_asides: [custom/asides/about.html,  asides/googleplus.html, asides/recent_posts.html, custom/asides/now_reading.html, asides/twitter.html, asides/github.html, asides/delicious.html, asides/pinboard.html]
+
+# Each layout uses the default asides, but they can have their own asides instead. Simply uncomment the lines below
+# and add an array with the asides you want to use.
+# blog_index_asides:
+# post_asides:
+# page_asides:
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+# Github repositories
+github_user: ami.tpore
+
+# Twitter
+twitter_user: amit_pore
+
+
+# Google +1
+
+
+# Google Plus Profile
+# Hidden: No visible button, just add author information to search results
+
+# Pinboard
+
+
+# Delicious
+
+
+# Disqus Comments
+
+
+# Google Analytics
+
+
+# Facebook Like
+facebook_like: false

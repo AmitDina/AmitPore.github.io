@@ -1,0 +1,22 @@
+---
+layout: default
+title: Amit Pore
+date : 2016
+description: Senior Software Developer
+blog : active      
+---
+<div style="padding-top: 182px;;">
+    {% assign loopData = site.posts %}  
+    {% include post-list.html url=post.url date=post.date title=post.title meta=post.meta %}
+       
+    <div class="pagination">
+        {% if paginator.next_page %}
+        <a class="prev" href="{{paginator.next_page}}">&larr; Older</a>
+        {% endif %}
+        <a href="/blog/archives">Blog Archives</a>
+        {% if paginator.previous_page %}
+        <a class="next" href="{{paginator.previous_page}}">Newer &rarr;</a>
+        {% endif %}
+    </div> 
+</div>
+

@@ -1,0 +1,14 @@
+
+{% if post.author %}
+  {% assign author = post.author %}
+{% elsif page.author %}
+  {% assign author = page.author %}
+{% else %}
+  {% assign author = site.author %}
+{% endif %}
+{% if author %}
+<span class="byline author vcard">
+    <img src="/assets/img/amit Pore.jpg" style="border-radius: 100px" />
+    Posted by <a href="https://plus.google.com/{{ site.googleplus_user }}?rel=author" title="Amit Pore"><span class="fn">{{ author }}</span></a> <em><span class="title">Senior .Net Developer</span></em>
+</span>
+{% endif %}

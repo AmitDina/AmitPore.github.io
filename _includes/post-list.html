@@ -1,0 +1,15 @@
+{% for post in loopData %}
+<div>
+    <div class="a-ap-para">
+    <h4 class="post__heading">[<a href="{{post.url}}"> {{post.title}} </a>]</h4>
+    <p class="post__meta"><a>var</a>  Published_On = {{post.date | date: "%-d %B %Y"}};</p>
+    <h5>&#47;&#42  {{ post.meta }} &#42;&#47;</h5>
+    <div>
+       <p class="lead">
+         <a href="{{post.url}}" class="btn btn-primary btn-sm">{more}</a>
+       </p>
+    </div>
+   </div>
+   
+</div>
+{% endfor %}
