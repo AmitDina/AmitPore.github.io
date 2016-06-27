@@ -1,4 +1,9 @@
 <!DOCTYPE html>
+<head>
+{% if jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}
+</head>
 <html lang="en">
   {% include head.html %}
   <body>

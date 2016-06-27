@@ -51,7 +51,10 @@ default_asides: [custom/asides/about.html,  asides/googleplus.html, asides/recen
 # ----------------------- #
 
 # Github repositories
-github_user: ami.tpore
+github_user: amitpore
+
+# Google services
+google_analytics: UA-79985904-1
 
 # Twitter
 twitter_user: amit_pore

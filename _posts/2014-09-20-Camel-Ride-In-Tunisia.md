@@ -25,7 +25,7 @@ I enjoyed camel ride , its a must do in Tunisia.
 
 <div class="polaroid">
   <p>Camel ride Tunisa</p>
-  <img src ="/assets/img/blog-img/TUNISIA-IMG3.JPG" />
+  <img src ="/assets/img/blog-img/TUNISIA-IMG3.jpg" />
 </div>
 
 Scuba Diving in most of the countries is expensive , but in Tunisia it was dead cheap . If someone wants to have an experience of it then , this is the place. 
